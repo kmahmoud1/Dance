@@ -2,3 +2,4 @@ Step left
 Step right 
 Jump 
 Rainbow dance 
+skip up
